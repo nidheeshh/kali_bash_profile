@@ -1,0 +1,1 @@
+# kali_bash_profile
